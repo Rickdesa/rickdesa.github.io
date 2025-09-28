@@ -10,13 +10,34 @@ main:
     # image: ./assets/img/teaser_example_2.png
     # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Inference in generalized linear models with robustness to misspecified variances"
+    authors: <strong>Riccardo De Santis</strong>, Jelle J. Goeman, Samuel Davenport, Jesse Hemerik, Livio Finos
+    conference: Journal of the American Statistical Association, 2025.
+    pdf: https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2491775
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+
+
+  - title: "Quantile regression approach to analyze gender disparities in STEM university credit distribution"
+    authors: <strong>Riccardo De Santis</strong>, Antonella D’Agostino, Nicola Salvati, Francesco Schirripa Spagnolo
+    conference: Annals of Operations Research, 2025.
+    pdf: https://link.springer.com/article/10.1007/s10479-025-06694-6
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+
+
+- title: "Permutation-based multiple testing when fitting many generalized linear models"
+    authors: <strong>Riccardo De Santis</strong>, Jelle J. Goeman, Samuel Davenport, Jesse Hemerik, Livio Finos
+    conference: Electronic Journal of Statistics, 2025.
+    pdf: https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/Permutation-based-multiple-testing-when-fitting-many-generalized-linear-models/10.1214/25-EJS2409.full
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
