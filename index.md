@@ -4,20 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a post-doc researcher at the University of Padova in Statistical sciences with a project based on meta-analysis. 
+
+Previously, I was post-doc researcher at the University of Siena from February 2024 to January 2025 for a project based on social statistics.
+
+I got my P.h.D. in May 2024 in Statistical sciences with a thesis based on semi-parametric tests for regression models.
+
+As a student, I got my master in Statistics at University of Siena in April 2020.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
+- **Meta-analysis:** 
+- **Machine Learning:**
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
