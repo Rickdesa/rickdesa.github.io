@@ -14,8 +14,9 @@ As a student, I got my master in Statistics at University of Siena in April 2020
 
 ## Research Interests
 
-- **Meta-analysis:** 
-- **Machine Learning:**
+- **Meta-analysis** 
+- **Machine Learning**
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
