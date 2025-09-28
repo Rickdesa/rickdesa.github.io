@@ -32,7 +32,7 @@ main:
     # image: ./assets/img/teaser_example.png
 
 
-- title: "Permutation-based multiple testing when fitting many generalized linear models"
+  - title: "Permutation-based multiple testing when fitting many generalized linear models"
     authors: <strong>Riccardo De Santis</strong>, Jelle J. Goeman, Samuel Davenport, Jesse Hemerik, Livio Finos
     conference: Electronic Journal of Statistics, 2025.
     pdf: https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/Permutation-based-multiple-testing-when-fitting-many-generalized-linear-models/10.1214/25-EJS2409.full
