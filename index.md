@@ -20,3 +20,5 @@ As a student, I got my master in Statistics at University of Siena in April 2020
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/seminars.md %}
