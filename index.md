@@ -26,3 +26,5 @@ As an undergraduate student, I got my master in Statistics at University of Sien
 {% include_relative _includes/seminars.md %}
 
 {% include_relative _includes/teaching.md %}
+
+{% include_relative _includes/proceedings.md %}
