@@ -11,3 +11,7 @@
 <li><autocolor>2022. Inference in generalized linear models with robustness to misspecified variances, <em>International Conference on Multiple Comparison Procedures (MCP),</em> Bremen (Germany)</autocolor></li>
 <li><autocolor>2022. Conditional tests for generalized linear models, <em>Società Italiana di Statistica (SIS),</em> Caserta (Italy)</autocolor></li>
 </ul>
+
+<h4 style="margin:0 10px 0;">Posters</h4>
+<li><autocolor>2022. Inference in generalized linear models with robustness to misspecified variances, <em>Statistical methods and models for
+complex data,</em> Padova (Italy)</autocolor></li>
