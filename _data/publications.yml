@@ -1,15 +1,5 @@
 main:
 
-  - title: Procrustes-based distances for exploring between-matrices similarity
-    authors: Angela Andreella, <strong>Riccardo De Santis</strong>, Anna Vesely, Livio Finos
-    # conference_short: MICCAI
-    conference: Statistical Methods & Applications, 2023.
-    pdf: https://link.springer.com/article/10.1007/s10260-023-00689-y
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    # notes: Early Accept
-
   - title: "Inference in generalized linear models with robustness to misspecified variances"
     authors: <strong>Riccardo De Santis</strong>, Jelle J. Goeman, Samuel Davenport, Jesse Hemerik, Livio Finos
     conference: Journal of the American Statistical Association, 2025.
@@ -41,3 +31,14 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
+
+
+  - title: Procrustes-based distances for exploring between-matrices similarity
+    authors: Angela Andreella, <strong>Riccardo De Santis</strong>, Anna Vesely, Livio Finos
+    # conference_short: MICCAI
+    conference: Statistical Methods & Applications, 2023.
+    pdf: https://link.springer.com/article/10.1007/s10260-023-00689-y
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
