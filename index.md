@@ -8,14 +8,16 @@ I am a post-doc researcher at the University of Padova in Statistical sciences w
 
 Previously, I was post-doc researcher at the University of Siena from February 2024 to January 2025 for a project based on social statistics.
 
-I got my P.h.D. in May 2024 in Statistical sciences with a thesis based on semi-parametric tests for regression models.
+I got my PhD title in May 2024 in Statistical sciences at the University of Padova with a thesis based on semi-parametric tests for regression models. During my PhD I did a visiting period of six months at the Department of Biomedical Data Sciences of Leiden University (The Netherlands).
 
-As a student, I got my master in Statistics at University of Siena in April 2020.
+As an undergraduate student, I got my master in Statistics at University of Siena in April 2020.
 
 ## Research Interests
 
 - **Meta-analysis** 
-- **Machine Learning**
+- **Robust inference**
+- **Multiple-testing procedures**
+- **Statistical applications in social studies**
 
 {% include_relative _includes/publications.md %}
 
