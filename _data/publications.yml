@@ -4,8 +4,8 @@ main:
     authors: <strong>Riccardo De Santis</strong>, Jelle J. Goeman, Samuel Davenport, Jesse Hemerik, Livio Finos
     conference: Journal of the American Statistical Association, 2025.
     pdf: https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2491775
-    R package Cran: https://cran.r-project.org/web/packages/flipscores/index.html
-    R package Github: https://livioivil.github.io/flipscores/
+    Code: https://cran.r-project.org/web/packages/flipscores/index.html
+    Code: https://livioivil.github.io/flipscores/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
