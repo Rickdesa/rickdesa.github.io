@@ -4,8 +4,8 @@ main:
     authors: <strong>Riccardo De Santis</strong>, Jelle J. Goeman, Samuel Davenport, Jesse Hemerik, Livio Finos
     conference: Journal of the American Statistical Association, 2025.
     pdf: https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2491775
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    R package Cran: https://cran.r-project.org/web/packages/flipscores/index.html
+    R package Github: https://livioivil.github.io/flipscores/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
@@ -26,6 +26,17 @@ main:
     authors: <strong>Riccardo De Santis</strong>, Jelle J. Goeman, Samuel Davenport, Jesse Hemerik, Livio Finos
     conference: Electronic Journal of Statistics, 2025.
     pdf: https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/Permutation-based-multiple-testing-when-fitting-many-generalized-linear-models/10.1214/25-EJS2409.full
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+
+    
+  - title: "Inference on multiple quantiles in regression models by a rank-score approach"
+    authors: <strong>Riccardo De Santis</strong>, Anna Vesely, Angela Andreella
+    conference: Arxiv preprint (manuscript submitted), 2025.
+    pdf: https://arxiv.org/abs/2511.07999
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
