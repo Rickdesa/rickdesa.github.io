@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a post-doc researcher at the University of Padova in Statistical sciences with a project based on meta-analysis. 
+I am a post-doc researcher at the University of Padova in Statistical sciences with a project based on the implications of partially missing information in meta-analyses. 
 
 Previously, I was post-doc researcher at the University of Siena from February 2024 to January 2025 for a project based on social statistics.
 
