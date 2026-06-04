@@ -1,7 +1,6 @@
 main:
-
-
-- title: "Inference on multiple quantiles in regression models by a rank-score approach"
+    
+  - title: "Inference on multiple quantiles in regression models by a rank-score approach"
     authors: <strong>Riccardo De Santis</strong>, Anna Vesely, Angela Andreella
     conference: Arxiv preprint (manuscript submitted), 2026.
     pdf: https://arxiv.org/abs/2511.07999
@@ -10,8 +9,8 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
-
-- title: "Robust confidence intervals for generalized linear models"
+    
+  - title: "Robust confidence intervals for generalized linear models"
     authors: Andrea Panarotto, <strong>Riccardo De Santis</strong>, Livio Finos
     conference: Arxiv preprint (manuscript submitted), 2026.
     pdf: https://arxiv.org/abs/2605.03060
