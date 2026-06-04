@@ -3,6 +3,8 @@
 <h4 style="margin:0 10px 0;">Talks</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><autocolor>2026. Partially missing continuous covariates in meta-regression: A comparison of multiple imputation approaches, <em>Meeting
+of the Society for Research Synthesis Methodology,</em> Chania (Greece)</autocolor></li>
   <li><autocolor>2025. Closed-Based Testing When Multiple Quantile Regressions are Fitted, <em>Società Italiana di Statistica (SIS),</em> Genova (Italy)</autocolor></li>
   <li><autocolor>2025. Sign-flip test for coefficients in the Cox regression model, <em>Survival Analysis for Junior Researchers (SAfJR),</em> Bonn (Germany)</autocolor></li>
   <li><autocolor>2024. Sign-flip test for the Cox regression model, <em>Società Italiana di Statistica (SIS),</em> Bari (Italy)</autocolor></li>
@@ -15,6 +17,8 @@
 <h4 style="margin:0 10px 0;">Posters</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><autocolor>2026. Small-sample hypothesis testing for binomial meta-analyses, <em>ymposium: Recent Advances in Meta-Analysis,</em> Gottingen (Germany)</autocolor></li>
+  <li><autocolor>2026. Inference on multiple quantiles in regression models by a rank-score approach, <em>StaTalk,</em> Torino (Italy)</autocolor></li>
   <li><autocolor>2022. Inference in generalized linear models with robustness to misspecified variances, <em>Statistical methods and models for
 complex data,</em> Padova (Italy)</autocolor></li>
 </ul>
