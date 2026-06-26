@@ -9,6 +9,16 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
+
+  - title: "Dealing with partial missing correlations in multivariate and surrogate meta-analyses"
+    authors: <strong>Riccardo De Santis</strong>, Annamaria Guolo
+    conference: Arxiv preprint (manuscript submitted), 2026.
+    pdf: https://arxiv.org/abs/2606.25670
+    code: https://github.com/Rickdesa/Imputing-correlation-coefficients
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
     
   - title: "Robust confidence intervals for generalized linear models"
     authors: Andrea Panarotto, <strong>Riccardo De Santis</strong>, Livio Finos
