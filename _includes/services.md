@@ -17,7 +17,7 @@ of the Society for Research Synthesis Methodology,</em> Chania (Greece)</autocol
 <h4 style="margin:0 10px 0;">Posters</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>2026. Small-sample hypothesis testing for binomial meta-analyses, <em>ymposium: Recent Advances in Meta-Analysis,</em> Gottingen (Germany)</autocolor></li>
+  <li><autocolor>2026. Small-sample hypothesis testing for binomial meta-analyses, <em>Symposium: Recent Advances in Meta-Analysis,</em> Gottingen (Germany)</autocolor></li>
   <li><autocolor>2026. Inference on multiple quantiles in regression models by a rank-score approach, <em>StaTalk,</em> Torino (Italy)</autocolor></li>
   <li><autocolor>2022. Inference in generalized linear models with robustness to misspecified variances, <em>Statistical methods and models for
 complex data,</em> Padova (Italy)</autocolor></li>
