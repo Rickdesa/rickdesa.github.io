@@ -3,6 +3,7 @@
 <h4 style="margin:0 10px 0;">Talks</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><autocolor>2026. Dealing with partially missing correlations in meta-analyses for multiple parameters of interest, <em>33rd International Biometric Conference,</em> Seoul (South Korea)</autocolor></li>
   <li><autocolor>2026. Partially missing continuous covariates in meta-regression: A comparison of multiple imputation approaches, <em>Meeting
 of the Society for Research Synthesis Methodology,</em> Chania (Greece)</autocolor></li>
   <li><autocolor>2025. Closed-Based Testing When Multiple Quantile Regressions are Fitted, <em>Società Italiana di Statistica (SIS),</em> Genova (Italy)</autocolor></li>
