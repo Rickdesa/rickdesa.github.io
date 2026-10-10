@@ -14,12 +14,12 @@ As an undergraduate student, I got my master in Statistics at University of Sien
 
 ## Research Interests
 
-- **Meta-analysis** 
 - **Robust inference**
 - **Multiple-testing procedures**
-- **Statistical applications in social studies**
 - **Regression models**
 - **Sequential testing**
+- **Meta-analysis** 
+- **Statistical applications in social studies**
 
 {% include_relative _includes/publications.md %}
 
