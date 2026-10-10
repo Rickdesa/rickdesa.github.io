@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a post-doc researcher at the University of Padova in Statistical sciences with a project based on the implications of partially missing information in meta-analyses. 
+I am a post-doc researcher at the Department of Statistics and Operations Research, University of Vienna, Austria, since October 2026. 
 
 Previously, I was a post-doc researcher at the Department of Statistical Sciences of University of Padova, Italy, from February 2025 to October 2026, with a project based on statistical modeling of partially missing information in meta-analysis. Before I was a post-doc researcher at the Department of Economics and Statistics of University of Siena, Italy, from February 2024 to January 2025, with a project based on statistical models in higher education.
 
